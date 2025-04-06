@@ -107,7 +107,7 @@ const projects = ref([
     fullDescription: "This project is my personal portfolio website showcasing my skills and projects. Built with Vue 3 Composition API and Vuetify 3 for a modern, responsive design.",
     technologies: ["Vue.js", "Vuetify", "JavaScript"],
     image: require('@/assets/logo.jpg'),
-    demoUrl: "#",
+    demoUrl: "https://zeeshanafzal.netlify.app/",
     codeUrl: "https://github.com/shanafzal060/portfolio"
   },
   {
