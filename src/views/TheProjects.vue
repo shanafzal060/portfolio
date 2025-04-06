@@ -108,7 +108,7 @@ const projects = ref([
     technologies: ["Vue.js", "Vuetify", "JavaScript"],
     image: require('@/assets/logo.jpg'),
     demoUrl: "#",
-    codeUrl: "https://github.com/yourusername/portfolio"
+    codeUrl: "https://github.com/shanafzal060/portfolio"
   },
   {
     title: "Gallery App",
