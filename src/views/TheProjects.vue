@@ -111,6 +111,15 @@ const projects = ref([
     codeUrl: "https://github.com/shanafzal060/portfolio"
   },
   {
+    title: "Todo with Dummmy Api",
+    shortDescription: "Todo App built with Vue.js, vuetify, vuex",
+    fullDescription: "This project is Todo App website showcasing my skills and projects. Built with Vue 3 Composition API , vuetify 3 for a modern, responsive design and vuex 4 for state managment.For backend I used the Dummy api placeholder.",
+    technologies: ["Vue.js", "Vuetify 3", "Vuex 4"],
+    image: require('@/assets/todo.jpg'),
+    demoUrl: "#",
+    codeUrl: "https://github.com/shanafzal060/todo_dummyapi"
+  },
+  {
     title: "Gallery App",
     shortDescription: "A Gallery App built with Vue.js and Vuetify",
     fullDescription: "This project is Gallery App website showcasing my skills and projects. Built with Vue 3 Composition API and Vuetify 3 for a modern, responsive design.",
